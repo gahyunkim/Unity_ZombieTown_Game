@@ -45,7 +45,13 @@ __스테이지 소개__
 
 ## 게임 관련 이미지 및 게임 플레이 영상
 
-- 게임 시작시에 인식해야하는 이미지  
-![image](https://user-images.githubusercontent.com/68581876/148668776-85c1acde-d834-4981-bab8-7b3c94129100.png)
+- 게임 진행 과정 이미지  
+<img src ="https://user-images.githubusercontent.com/68581876/148669013-5e79448b-7ff2-4d7d-a63b-836afe78bd79.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/68581876/148668920-25358dec-670c-43bb-9442-0a2568acf320.png" width="30%" height ="30%"> <img src ="https://user-images.githubusercontent.com/68581876/148669038-914e6bcb-51b0-4e22-9e47-26de8e9bd31f.png" width="30%" height="30%">  
+<img src ="https://user-images.githubusercontent.com/68581876/148669054-7787e751-3533-4ad3-aad4-5a2ed53109e2.png" width="30%" height="30%"> <img src ="https://user-images.githubusercontent.com/68581876/148669077-b23c79ba-e15a-488a-88ac-ba8e37eb4b30.png" width="30%" height="30%"> <img src ="https://user-images.githubusercontent.com/68581876/148669101-ae18ef8f-a8b4-4f1c-95f1-beb68e85b976.png" width="30%" height="30%">  
+<img src ="https://user-images.githubusercontent.com/68581876/148669134-65125197-e4fb-47ad-bed4-bdf7ce227bab.png" width="30%" height="30%"> <img src ="https://user-images.githubusercontent.com/68581876/148669149-352d0977-1b78-4b01-80f5-5070169b4ffe.png" width="30%" height="30%">
+<img src ="https://user-images.githubusercontent.com/68581876/148669169-7c7452b8-3a7c-4934-9097-380e5e82430c.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/68581876/148669192-c0e0f612-42e6-43a0-8ce6-68a989ef5362.png" width="30%" height="30%">
+
+- 게임 플레이 과정 (클리어 버전)  
+
 
 
