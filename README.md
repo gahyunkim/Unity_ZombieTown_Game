@@ -51,7 +51,30 @@ __스테이지 소개__
 <img src ="https://user-images.githubusercontent.com/68581876/148669134-65125197-e4fb-47ad-bed4-bdf7ce227bab.png" width="30%" height="30%"> <img src ="https://user-images.githubusercontent.com/68581876/148669149-352d0977-1b78-4b01-80f5-5070169b4ffe.png" width="30%" height="30%">
 <img src ="https://user-images.githubusercontent.com/68581876/148669169-7c7452b8-3a7c-4934-9097-380e5e82430c.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/68581876/148669192-c0e0f612-42e6-43a0-8ce6-68a989ef5362.png" width="30%" height="30%">
 
-- 게임 플레이 과정 (클리어 버전) - 영상이 길어서 3개로 편집함  
+- 게임 플레이 과정 (게임 클리어 버전) - 영상 크기가 커서 나눠서 올림 + 클릭하면 영상 보임
 <img src = "https://user-images.githubusercontent.com/68581876/148669366-7fb86e9f-af26-42df-94bf-11761d9315ac.mp4" width="30%" height="30%"> <img src ="https://user-images.githubusercontent.com/68581876/148669415-558266f6-d9f0-494d-acd8-ce09e9e58fb5.mp4" width="30%" height="30%"> <img src ="https://user-images.githubuse
 rcontent.com/68581876/148669464-f0283539-4545-48ba-8f03-3a3075effaa7.mp4" width="30%" height="30%">  
-<img src = "https://user-images.githubusercontent.com/68581876/148669489-d00e6b1d-3b76-4355-97d6-06ff4eda8a8c.mp4" width="30%" height="30%">
+<img src = "https://user-images.githubusercontent.com/68581876/148669489-d00e6b1d-3b76-4355-97d6-06ff4eda8a8c.mp4" width="30%" height="30%">  
+
+## 게임에 사용된 에셋 및 사운드 출처
+
+게임에 사용된 모든 에셋과 사운드들은 무료입니다.
+- 전체적인 배경 에셋 (유니티 에셋 스토어)  
+https://assetstore.unity.com/packages/3d/environments/urban/toony-tiny-city-demo-176087
+- 캐릭터 에셋 (유니티 에셋 스토어)  
+https://assetstore.unity.com/packages/3d/characters/toony-tiny-people-demo-113188
+- Stage 3에서의 차 모델들 (유니티 에셋 스토어)  
+https://assetstore.unity.com/packages/3d/vehicles/land/simple-cars-pack-97669
+- 폰트 사용  
+http://levelup.nexon.com/font/index.aspx  
+- Stage 2에서의 경찰관 효과음  
+https://effectdown.tistory.com/entry/%EC%9D%91%EA%B8%89%EC%82%AC%EC%9A%B4%EB%93%9C-%ED%9A%A8%EA%B3%BC%EC%9D%8C-%EB%AA%A8%EC%9D%8C7?category=824578#google_vignette
+- 주인공 점프 효과음  
+https://opengameart.org/content/soundpack-04
+- Stage 1,3 배경음악  
+https://opengameart.org/content/medieval-town
+- Stage 2,4 배경음악  
+https://opengameart.org/content/cannon-tube
+- 공 던지면 나는 효과음  
+https://opengameart.org/content/wind-hit-time-morph
+
