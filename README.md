@@ -51,10 +51,10 @@ __스테이지 소개__
 <img src ="https://user-images.githubusercontent.com/68581876/148669134-65125197-e4fb-47ad-bed4-bdf7ce227bab.png" width="30%" height="30%"> <img src ="https://user-images.githubusercontent.com/68581876/148669149-352d0977-1b78-4b01-80f5-5070169b4ffe.png" width="30%" height="30%">
 <img src ="https://user-images.githubusercontent.com/68581876/148669169-7c7452b8-3a7c-4934-9097-380e5e82430c.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/68581876/148669192-c0e0f612-42e6-43a0-8ce6-68a989ef5362.png" width="30%" height="30%">
 
-- 게임 플레이 과정 (게임 클리어 버전) - 영상 크기가 커서 나눠서 올림 + 클릭하면 영상 보임
-<img src = "https://user-images.githubusercontent.com/68581876/148669366-7fb86e9f-af26-42df-94bf-11761d9315ac.mp4" width="30%" height="30%"> <img src ="https://user-images.githubusercontent.com/68581876/148669415-558266f6-d9f0-494d-acd8-ce09e9e58fb5.mp4" width="30%" height="30%"> <img src ="https://user-images.githubuse
+- 게임 플레이 과정 (게임 클리어 버전) - 영상 크기가 커서 나눠서 올림 + 클릭하면 영상 보임  
+1)<img src = "https://user-images.githubusercontent.com/68581876/148669366-7fb86e9f-af26-42df-94bf-11761d9315ac.mp4" width="30%" height="30%"> 2)<img src ="https://user-images.githubusercontent.com/68581876/148669415-558266f6-d9f0-494d-acd8-ce09e9e58fb5.mp4" width="30%" height="30%"> 3)<img src ="https://user-images.githubuse
 rcontent.com/68581876/148669464-f0283539-4545-48ba-8f03-3a3075effaa7.mp4" width="30%" height="30%">  
-<img src = "https://user-images.githubusercontent.com/68581876/148669489-d00e6b1d-3b76-4355-97d6-06ff4eda8a8c.mp4" width="30%" height="30%">  
+4)<img src = "https://user-images.githubusercontent.com/68581876/148669489-d00e6b1d-3b76-4355-97d6-06ff4eda8a8c.mp4" width="30%" height="30%">  
 
 ## 게임에 사용된 에셋 및 사운드 출처
 
